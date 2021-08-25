@@ -40,5 +40,5 @@ To use Rust minigrep, follow these steps:
 
 * Run the following command
 ```
-CASE_INSENSITIVE=1; cargo run <filename/file path> <query to search for>
+CASE_INSENSITIVE=1; cargo run <query to search for> <filename/file path>
 ```
